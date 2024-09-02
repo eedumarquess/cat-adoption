@@ -12,6 +12,7 @@
   "dependencies": {
     "@fontsource/inter": "^5.0.20",
     "@prisma/client": "^5.19.1",
+    "@supabase/supabase-js": "^2.45.3",
     "nuxt": "^3.13.0",
     "vue": "latest"
   },
